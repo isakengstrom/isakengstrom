@@ -4,7 +4,7 @@ I'm Isak "bio" Engström, welcome to my hub!
 
 ### Languages
 
-[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=python)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=c%2B%2B)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=python)
 [![CSharp](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=csharp)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=javascript)
