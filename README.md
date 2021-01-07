@@ -1,5 +1,5 @@
-### BIO's bio:
-I'm Isak "bio" Engström, welcome to my hub!
+### Bio:
+Welcome to my hub! I'm a final year, Master of Science student in Media Technology and Engineering, focusing on Computer Vision and Machine Learning.  
 
 
 ### Languages
@@ -9,9 +9,11 @@ I'm Isak "bio" Engström, welcome to my hub!
 [![CSharp](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=csharp)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=javascript)
 
+<!--
 ### Hub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bioengstrom&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bioengstrom&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <!--
