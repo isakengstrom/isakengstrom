@@ -1,6 +1,5 @@
 ### Bio:
-Welcome to my hub! I'm a final year, Master of Science student in Media Technology and Engineering, focusing on Computer Vision and Machine Learning.  
-
+Welcome to my hub! 
 
 ### Languages
 
