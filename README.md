@@ -1,12 +1,34 @@
-### Bio:
-Welcome to my hub! 
+# Hi! I'm BIO, and this is my bio! 
 
-### Languages
+<!--I'm currently working as a software engineer, dabbling with-->     
 
-[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=c%2B%2B)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=python)
-[![CSharp](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=csharp)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/bioengstrom?tab=repositories&q=&type=&language=javascript)
+
+Below are some of the noteworthy technologies I'm using:    
+
+## Back-end
+![Azure](https://img.shields.io/badge/azure-167C80.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-167C80?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-167C80.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## Front-end
+![Angular](https://img.shields.io/badge/angular-167C80.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-167C80.svg?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-167C80.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-167C80.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-167C80.svg?style=for-the-badge&logo=c-sharp&logoColor=#fff)
+
+## Machine Learning 
+![PyTorch](https://img.shields.io/badge/PyTorch-167C80.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Python](https://img.shields.io/badge/python-167C80?style=for-the-badge&logo=python&logoColor=white)
+
+## Other
+![CI/CD](https://shields.io/badge/Azure-Devops-167C80?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-167C80.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-167C80.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-167C80.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
+
 
 <!--
 ### Hub Stats
