@@ -6,24 +6,24 @@
 Below are some of the noteworthy technologies I'm using:    
 
 ## Back-end
-![Azure](https://img.shields.io/badge/azure-167C80.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-167C80?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-167C80.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-ffffff.svg?style=for-the-badge&logo=microsoftazure&logoColor=black)
+![.Net](https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=.net&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-ffffff.svg?style=for-the-badge&logo=c-sharp&logoColor=black)
 
 ## Front-end
-![Angular](https://img.shields.io/badge/angular-167C80.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-167C80.svg?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-167C80.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=black)
+![React](https://img.shields.io/badge/react-ffffff.svg?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-ffffff.svg?style=for-the-badge&logo=typescript&logoColor=black)
 
 ## Machine Learning 
-![PyTorch](https://img.shields.io/badge/PyTorch-167C80.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Python](https://img.shields.io/badge/python-167C80?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ffffff.svg?style=for-the-badge&logo=PyTorch&logoColor=black)
+![Python](https://img.shields.io/badge/python-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
 ## Other
-![CI/CD](https://shields.io/badge/Azure-Devops-167C80?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/git-167C80.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-167C80.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-167C80.svg?style=for-the-badge&logo=unity&logoColor=white)
+![CI/CD](https://shields.io/badge/Azure-Devops-ffffff?style=for-the-badge&logo=microsoftazure&logoColor=black)
+![Git](https://img.shields.io/badge/git-ffffff.svg?style=for-the-badge&logo=git&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-ffffff.svg?style=for-the-badge&logo=docker&logoColor=black)
+![Unity](https://img.shields.io/badge/unity-ffffff.svg?style=for-the-badge&logo=unity&logoColor=black)
 
 
 
