@@ -14,8 +14,6 @@ Below are some of the noteworthy technologies I'm using:
 ![Angular](https://img.shields.io/badge/angular-167C80.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-167C80.svg?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-167C80.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-167C80.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-167C80.svg?style=for-the-badge&logo=c-sharp&logoColor=#fff)
 
 ## Machine Learning 
 ![PyTorch](https://img.shields.io/badge/PyTorch-167C80.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
