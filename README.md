@@ -1,4 +1,5 @@
 
+
 ![Azure](https://img.shields.io/badge/azure-118185.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-118185?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-118185.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 ---
@@ -12,5 +13,3 @@
 ---
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-118185.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-118185?style=for-the-badge&logo=python&logoColor=white)
-
----
